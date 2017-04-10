@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">eShoppie</string>
+    <string name="welcome">Welcome, buddy! Please enter your Twitter handle below</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Send</string>
+    <string name="title_activity_login">Login</string>
+
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/title_home</item>
+        <item>@string/title_electronics</item>
+        <item>@string/title_coupens</item>
+        <item>@string/title_offers</item>
+        <item>@string/title_extraearning</item>
+        <item>@string/title_usemoney</item>
+        <item>@string/title_ranking</item>
+        <item>@string/title_faq</item>
+        <item>@string/title_signout</item>
+    </string-array>
+
+    <string name="title_home">HOME</string>
+    <string name="title_electronics">ELECTRONICS</string>
+    <string name="title_coupens">FASHION</string>
+    <string name="title_offers">BOOKS</string>
+    <string name="title_extraearning">HOME AND DECOR</string>
+    <string name="title_usemoney">OFFERS</string>
+    <string name="title_ranking">RATE US</string>
+    <string name="title_faq">FAQ</string>
+    <string name="title_signout">SIGNOUT</string>
+
+
+</resources>
+

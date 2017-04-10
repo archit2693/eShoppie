@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true">
+
+        <LinearLayout
+            android:id="@+id/natural"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="@drawable/sea"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/imageLinear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <!--<com.alexzh.circleimageview.CircleImageView-->
+            <!--android:id="@+id/banar1"-->
+            <!--android:layout_width="100dp"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:src="@drawable/ausgirl"-->
+            <!--android:layout_marginTop="80dp"-->
+            <!--android:layout_marginLeft="5dp"-->
+            <!--android:layout_gravity="center"-->
+            <!--app:view_shadowRadius="2dp"-->
+            <!--app:view_shadowDx="0dp"-->
+            <!--app:view_shadowDy="0dp"-->
+            <!--app:view_borderWidth="2dp"-->
+            <!--app:view_borderColor="#cccccc"-->
+
+            <!--/>-->
+
+
+            <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/profile_image"
+                android:layout_width="96dp"
+                android:layout_height="96dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="80dp"
+                android:src="@drawable/f"
+                app:civ_border_color="#cccccc"
+                app:civ_border_width="2dp" />
+
+
+            <customfonts.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:letterSpacing="0.025"
+                android:text="Monday"
+                android:textColor="@color/weekcolor"
+                android:textSize="20dp" />
+
+            <customfonts.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:letterSpacing="0.025"
+                android:text="Daily Agenda"
+                android:textColor="@color/agendacolor"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+
+        <!--Tags-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/natural"
+            android:orientation="vertical"
+            android:id="@+id/linearFirst"
+            >
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:background="@drawable/ic_technology_5" />
+
+                <customfonts.MyTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:letterSpacing="0.025"
+                    android:text="My Orders"
+                    android:textColor="@color/schedulecolor"
+                    android:textSize="14dp"
+
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.3dp"
+                android:layout_marginTop="20dp"
+                android:background="#99A1AC" />
+
+
+        </LinearLayout>
+
+        <!--Tags-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearFirst"
+            android:orientation="vertical"
+            android:id="@+id/linearSec"
+            >
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:background="@drawable/ic_technology_5" />
+
+                <customfonts.MyTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:letterSpacing="0.025"
+                    android:text="Upload Picture"
+                    android:textColor="@color/schedulecolor"
+                    android:textSize="14dp"
+
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.3dp"
+                android:layout_marginTop="20dp"
+                android:background="#99A1AC" />
+
+
+        </LinearLayout>
+
+        <!--Tags-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearSec"
+            android:orientation="vertical"
+            android:id="@+id/linearThird">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:background="@drawable/ic_technology_5" />
+
+                <customfonts.MyTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:letterSpacing="0.025"
+                    android:text="Account Settings"
+                    android:textColor="@color/schedulecolor"
+                    android:textSize="14dp"
+
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.3dp"
+                android:layout_marginTop="20dp"
+                android:background="#99A1AC" />
+
+
+        </LinearLayout>
+
+        <!--Tags-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearThird"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:background="@drawable/ic_technology_5" />
+
+                <customfonts.MyTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:letterSpacing="0.025"
+                    android:text="Schedule"
+                    android:textColor="@color/schedulecolor"
+                    android:textSize="14dp"
+
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.3dp"
+                android:layout_marginTop="20dp"
+                android:background="#99A1AC" />
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_three" />
+
+    <customfonts.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:letterSpacing="0.025"
+        android:text="Jessica Roy"
+        android:textColor="@color/dpnamecolor"
+        android:textSize="18dp" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_tool_2" />
+
+
+</RelativeLayout>

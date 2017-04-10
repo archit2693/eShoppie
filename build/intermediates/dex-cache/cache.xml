@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/c29fd620cad5a2a1d0c1464478683c94fec20ae0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_79cf725a0ba17679244505bbb3446f437fb534a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/d149260221fb8481f9c6fa15e78b5044881b0cb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_c3195db450d1ca3ff0d37a56bf0f05d5e2398e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/d149260221fb8481f9c6fa15e78b5044881b0cb0/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7b54e7b9b48fbf1b9a44da0f19e92fafaf2b1aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/fa98c11c8b02566b321c08137211885a4df9d284/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_c27f7eb08aabae4693e00f3fcac79fb20e1bb707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/39d2171e737aaa956e71237517be1a72f8ba61d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_00a86e5917ef04563ef557199b1dcf9bc0dd9f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/28485e7b928029330f788c6940124d0f84d453bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_8ef2cefc08ff1b1aa74182ca13eb1fed165d5f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/a92584a8d945bf4ee0b9215a8bb8cd25e1d7a4cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_44355fe46caa065915810532326013e62580dde7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/d8c116a2aa6ef8e0e1d46bf4b380b104e9728bc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_0e04a6d7de78fb185b1ca8ad832824be06bb2af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/a92fc5e06a504b93f8fb821c9efde03619c92543/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bef8a6e9c48d173c5507cf734637b0726dc3afb1">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_9a5f13c8cb552f379a471d8b9c7076d00c5404e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/d5b052567d2daa33089133cef98fb4175a0d4e89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_5c7de2f74d1fb08f4bbcfd77a1604776d2a1defd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/a92584a8d945bf4ee0b9215a8bb8cd25e1d7a4cc/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d3fafaa49df86555002193dc81de05f7f134de2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/fa98c11c8b02566b321c08137211885a4df9d284/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_129c2674e4f0ba271b0c47d8d0ccfa3383990928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_873ba1190daeb925fd0bb2a25468f758fca06ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/8cd7f778902e8403d0aec0f85df8db4713e7890c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bed56c5b47d3e1615fb6f9185775c8e5979607f7">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_eb684e63034158918b35af6ebbcea35046e2e814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_d58fdeb4d7ddd37f14c9e9e79efe02060da0f5f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/c29fd620cad5a2a1d0c1464478683c94fec20ae0/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_065de8c8084d62064806c03f11f20558c78d3769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/9b152e1f9232246c602cbef5abd73308e73e0322/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_4bba775c13a238f731a28ccf4764a60f3b539c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/d8c116a2aa6ef8e0e1d46bf4b380b104e9728bc9/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_18f70f1290bd432a0f25f7c0c5edd5f29a2b508c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Iron_Man/.android/build-cache/6e5323f2dd7934bf7803c09353376703e57f709f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/Iron_Man/Documents/E-com/eShoppie/app/build/intermediates/pre-dexed/debug/classes_2cb01c615e82733cc8877fa58999538197db1198.jar" />
+    </item>
+
+</items>
